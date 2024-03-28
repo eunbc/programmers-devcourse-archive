@@ -8,6 +8,8 @@
 | 빙터파크 | `2023-11-04` ~ `2024-01-14` | [repository](https://github.com/Team-BingBong/BE-05-Bingterpark) | 티켓 예매 사이트 클론코딩 |
 | 잉다봇 | `2024-01-20` ~ `2024-01-20` | [repository](https://github.com/eunbc/EngdaBot) | 영어일기 첨삭 텔레그램 봇 |
 
+<br/>
+
 ## 미션📮
 | Mission | Period | Repository | Pull Request & Review |
  |:-----:|:-----:|:---:|:---:|
@@ -19,7 +21,7 @@
  | 스프링부트 Part1 위클리 미션 | `2023-10-09` ~ `2023-10-22` | [repository](https://github.com/eunbc/spring-boot) | [PR](https://github.com/prgrms-be-devcourse/springboot-basic/pull/887) |
  | 도서관리 애플리케이션 구현 미션 | `2023-09-18` ~ `2023-10-06` | [repository](https://github.com/eunbc/java-library-management-program)  | [PR](https://github.com/prgrms-be-devcourse/java-library-management/pull/19)|
  
-
+<br/>
 
 ## 스터디📚
 | 스터디 | Period | Repository | 
