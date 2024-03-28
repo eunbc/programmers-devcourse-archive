@@ -9,7 +9,7 @@
 | 잉다봇 | `2024-01-20` ~ `2024-01-20` | [repository](https://github.com/eunbc/EngdaBot) | 영어일기 첨삭 텔레그램 봇 |
 
 ## 미션📮
-| Mission | Period | Repository | Pull Request |
+| Mission | Period | Repository | Pull Request & Review |
  |:-----:|:-----:|:---:|:---:|
  | URL Shortener 구현 미션 | `2023-12-02` ~ `2023-12-16` | [repository](https://github.com/eunbc/devcourse-url-shortener) | [PR](https://github.com/prgrms-be-devcourse/springboot-url-shortener/pull/67) |
  | 스프링부트 JPA 게시판 구현 미션 | `2023-11-11` ~ `2023-11-24` | [repository](https://github.com/eunbc/devcourse-board-jpa) | [PR 1차](https://github.com/prgrms-be-devcourse/springboot-board-jpa/pull/272), [PR 2차](https://github.com/prgrms-be-devcourse/springboot-board-jpa/pull/283) |
